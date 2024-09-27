@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/shoaib-raza-a813832b4" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shoaib-raza" height="30" width="40" /></a>
 <a href="https://www.facebook.com/hafizshoaib.raza.798" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anushashmani" height="30" width="40" /></a>
-<a href="https://anus-hashmani.vercel.app/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://anus-hashmani.vercel.app/" height="30" width="40" /></a>
+<a href="https://shoaib-raza-portfolio.netlify.app/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://anus-hashmani.vercel.app/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
