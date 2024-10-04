@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **hafizshoaibraza180@gmail.com**
 
-- 📄 Know about my experiences [https://shoaib-raza-portfolio.netlify.app/)
+- 📄 Know about my experiences [https://devoleper-portfolio-shoaib-raza.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
